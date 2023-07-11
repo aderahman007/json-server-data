@@ -67,54 +67,5 @@
       "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
       "image": "https://images.pexels.com/photos/4491461/pexels-photo-4491461.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
     }
-  ],
-  "course_test": {
-    "status": 200,
-    "message": "Success",
-    "data": {
-      "course": {
-        "id": "1",
-        "nama": "Pengenalan Listrik Secara Umum",
-        "keterangan": "<p style=\"font-family: SuisseIntl, sans-serif; font-size: 13px;\">Untuk pengertian listrik secara umum listrik adalah aliran elektron-elektron dari atom ke atom pada sebuah penghantar atau suatu energi yang sangat berpengaruh terhadap kehidupan manusia sehari-harinya. Energi listrik ini digunakan dan dimanfaatkan untuk menggerakkan berbagai alat elektronik yang berfungsi untuk mempermudah pekerjaan manusia.</p><p style=\"font-family: SuisseIntl, sans-serif; font-size: 13px;\"><em>Secara umum atau dalam kamus bahasa Indonesia, Listrik dapat diartikan sebagai suatu daya yang muncul akibat terjadinya suatu gesekan atau dikarenakan sebab lain dari suatu proses kimia.</em></p><p style=\"font-family: SuisseIntl, sans-serif; font-size: 13px;\">Listrik tersebut terbagi menjadi 2, yaitu listrik statis dan listrik dinamis.</p>",
-        "status": "aktif",
-        "thumbnail": "https://is3.cloudhost.id/e-learning-ar/course/thumbnail/1687761268_73811d41bcda2f9355fc.jpg",
-        "is_auth": "tidak",
-        "created_at": "2023-05-29 00:00:00",
-        "rating": {
-          "total_rating": 2,
-          "jumlah_rating": 9,
-          "total_all_rating": 1,
-          "persentase_rating_1": 0,
-          "persentase_rating_2": 0,
-          "persentase_rating_3": 0,
-          "persentase_rating_4": 50,
-          "persentase_rating_5": 50,
-          "rating_1": 0,
-          "rating_2": 0,
-          "rating_3": 0,
-          "rating_4": 1,
-          "rating_5": 1
-        },
-        "review": [{
-            "avatar": "default.png",
-            "nama": "Bugam Agustinus",
-            "id": "1",
-            "rating": "5",
-            "review": "Kursus sangat membantu",
-            "is_view": "ya",
-            "created_at": "2023-06-26 07:37:22"
-          },
-          {
-            "avatar": null,
-            "nama": "user baru",
-            "id": "3",
-            "rating": "4",
-            "review": "Bagus",
-            "is_view": "ya",
-            "created_at": "2023-06-26 07:38:44"
-          }
-        ]
-      }
-    }
-  }
+  ]
 }
